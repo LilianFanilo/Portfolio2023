@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6be8efa0.css",
+    "main.js": "/static/js/main.b3b4a91c.js",
+    "static/js/787.755d6b54.chunk.js": "/static/js/787.755d6b54.chunk.js",
+    "static/media/peexeo-bg.png": "/static/media/peexeo-bg.9840378fda94c92f9c9b.png",
+    "static/media/campInstImg.jpg": "/static/media/campInstImg.4591bf494aa8bb6f4e4f.jpg",
+    "static/media/PhotoProfil.jpg": "/static/media/PhotoProfil.03f1d4e712318ed41020.jpg",
+    "static/media/yonnha.jpg": "/static/media/yonnha.d549609ddf1698f2d3ae.jpg",
+    "index.html": "/index.html",
+    "main.6be8efa0.css.map": "/static/css/main.6be8efa0.css.map",
+    "main.b3b4a91c.js.map": "/static/js/main.b3b4a91c.js.map",
+    "787.755d6b54.chunk.js.map": "/static/js/787.755d6b54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6be8efa0.css",
+    "static/js/main.b3b4a91c.js"
+  ]
+}
